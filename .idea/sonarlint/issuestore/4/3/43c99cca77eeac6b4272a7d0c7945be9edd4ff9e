@@ -1,0 +1,25 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ÙÖ£¡8ø×øªç1J$917136b8-f1c9-4ffd-b34b-7d9b6bad6f3b
+r	java:S106"+Replace this use of System.out by a logger.(¾Á¼€ùÿÿÿÿ8ù×øªç1J$845172ca-f231-498c-bbd4-f161db4b5d0c
+m	java:S106"+Replace this use of System.out by a logger.(¤›§Ì8ù×øªç1J$bc0b8427-c480-4a39-8df0-391f5f287c95
+m	java:S106"+Replace this use of System.out by a logger.(âÓ¬¼8ù×øªç1J$cf1648e6-9eb0-4a1a-822b-d0ae49ef9b23
+r	java:S106 "+Replace this use of System.out by a logger.(òÛÖ™ùÿÿÿÿ8ù×øªç1J$6841c854-2d25-48cf-8de4-00e0376882ac
+r	java:S106&"+Replace this use of System.out by a logger.(áÜ–Êøÿÿÿÿ8ù×øªç1J$6d1d943b-7147-4066-a69e-1070a80dbdf5
+m	java:S106'"+Replace this use of System.out by a logger.(ªÙþÂ8ù×øªç1J$6f810c66-cdf0-41df-a43b-e8b84ba642f6
+m	java:S106("+Replace this use of System.out by a logger.(ì¥Ùñ8ù×øªç1J$70c7a52e-6e25-42ee-8d52-9b22e84e7566
+m	java:S106)"+Replace this use of System.out by a logger.(áÅ¦ö8ù×øªç1J$97767324-979b-47b7-80ca-c9aa1f06253f
+r	java:S106,"+Replace this use of System.out by a logger.(¡›‡­øÿÿÿÿ8ù×øªç1J$7727f06b-0cf2-41a1-b94f-d13863b07b2a
+r	java:S1068"+Replace this use of System.out by a logger.(˜ƒ±Àûÿÿÿÿ8ù×øªç1J$4cc9673b-d381-4c53-b6ee-23bbee11ef64
+m	java:S1069"+Replace this use of System.out by a logger.(êÿÿ·8ú×øªç1J$f6fa1cfa-e5a1-42d2-b464-e8f4d88d74fc
+r	java:S106:"+Replace this use of System.out by a logger.(Ð¬òÓøÿÿÿÿ8ú×øªç1J$b29e4ad6-ce6d-4781-9b15-96f76ccee826
+m	java:S106="+Replace this use of System.out by a logger.(«ÉÕœ8ú×øªç1J$ab441263-45d6-4d5d-8ed3-e9b78260b243
+m	java:S106>"+Replace this use of System.out by a logger.(ªÙþÂ8ú×øªç1J$d3fbe1c3-ba79-4a0a-9e12-841e7a44c4b3
+m	java:S106?"+Replace this use of System.out by a logger.(ì¥Ùñ8ú×øªç1J$95c29c51-9eaa-4dd6-b70f-69e7a9ef8453
+m	java:S106@"+Replace this use of System.out by a logger.(áÅ¦ö8û×øªç1J$6f43915c-11a3-4176-8f53-db8c055a5c2d
+r	java:S106R"+Replace this use of System.out by a logger.(ì†Œ³þÿÿÿÿ8û×øªç1J$3604b2e1-7776-4885-9419-a8eb4d051783
+‘
+java:S1128"NRemove this unused import 'com.gabodev.responsabilidad_unica2.model.Articulo'.(•Ì¸º8û×øªç1J$54a99a2c-40cb-427d-a493-3b94dedcec4b
+s
+java:S1128"0Remove this unused import 'java.security.Guard'.(Æšäð8ü×øªç1J$15ad7896-70fb-414e-8fa1-c6662d1a4022
+q
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ü×øªç1J$63a4d37e-ad18-4854-8658-2b080ce2c1dc
